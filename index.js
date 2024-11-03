@@ -1,0 +1,1 @@
+console.log(" Olá! Estamos começando mais uma sessão de estudos...");
