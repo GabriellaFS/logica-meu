@@ -3,7 +3,7 @@ function enviarMedia(nota1, nota2, nota3){
  return media
 }
 
-let mediaUm = enviarMedia(6, 3, 6);
+let mediaUm = enviarMedia(6, 4, 6);
 
 if( mediaUm >= 7){
   console.log(` Parabéns você passou! A média é ${mediaUm}`)
